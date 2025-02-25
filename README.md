@@ -1,4 +1,4 @@
-# Домашнее задание к занятию "`ELK`" - `Фамилия и имя студента`
+# Домашнее задание к занятию "`ELK`" - `Фумелли Петр`
 
 
 ### Задание 1. Elasticsearch
@@ -16,6 +16,6 @@
 
 ### Задание 4. Filebeat
 
-![alt text](https://github.com/username/reponame/blob/branch/path/image.png)
+![alt text](https://github.com/PeterFumelli/ELK/blob/main/img/Filebeat.png)
 
 
